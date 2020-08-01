@@ -1,0 +1,18 @@
+Instagram Live PHP
+Escrito por JRoy https://github.com/JRoy
+Adaptado y traducido por https://instagram.com/marcsoulmusic
+
+
+INSTALACIÓN
+
+Ejecutar el archivo: INSTALAR (ejecutar como administrador).bat
+Tambien se puede desde un CMD iniciado como administrador y el siguiente comando:
+composer require mgp25/instagram-php react/child-process
+
+CONFIGURACIÓN
+Puedes predefinir tu usuario y contraseña editando el archivo config.php
+
+PARA EMITIR
+Ejecutar el archivo: EMITIR.bat
+También se puede desde un CMD con el siguiente comando:
+php -f goLive.php

@@ -1,0 +1,1 @@
+composer require mgp25/instagram-php react/child-process
